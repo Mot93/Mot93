@@ -4,21 +4,7 @@ Welcome!
 
 ## Who am I? What do I like?
 
-<div style="
-  background-color: #000;
-  color: #00ff00;
-  font-family: 'Courier New', monospace;
-  padding: 2px 6px;
-  border: 1px solid #00aa00;
-  display: inline-block;
-  font-weight: bold;
-  font-size: 12px;
-  text-shadow: 0 0 3px #00ff00;
-  letter-spacing: 1px;
-  box-shadow: 0 0 3px rgba(0, 255, 0, 0.5);
-">
-  Linux
-</div> enthusiastic and script writer.
+Linux enthusiastic and script writer.
 
 Love playing with unix, deploying software and improving automation.
 
